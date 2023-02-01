@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Wiki Philosophie - Page principale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Wiki Philosophie - Page principale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Wiki Philosophie - Page principale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Wiki Philosophie - Page principale.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26ec6dfac1d8e156",
+  "active": "14516641d59f7fee",
   "lastOpenFiles": [
     "Notions/La vérité.md",
-    "README.md",
+    "Wiki Philosophie - Page principale.md",
     "Notions/Le travail.md",
     "Notions/La technique.md",
     "Notions/Le temps.md",
