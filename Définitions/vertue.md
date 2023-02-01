@@ -1,0 +1,2 @@
+#definition 
+Définition : Action positive vue par un Homme. L’Homme vertueux est celui qui a appris à bien juger et à bien chosir, devant un cas qui se présente, il exerce son jugement et voit comment s’y prendre pour réaliser une fin bonne.

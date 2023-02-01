@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "513ac21165b92765",
+        "id": "6b9e68d5e9d66732",
         "type": "tabs",
         "children": [
           {
-            "id": "14516641d59f7fee",
+            "id": "0ad9ba908331ace1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki Philosophie - Page principale.md",
+                "file": "Notions/Le temps.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3112cd1cca768b4b",
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki Philosophie - Page principale.md",
+                "file": "Notions/Le temps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki Philosophie - Page principale.md",
+                "file": "Notions/Le temps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki Philosophie - Page principale.md"
+                "file": "Notions/Le temps.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14516641d59f7fee",
+  "active": "0ad9ba908331ace1",
   "lastOpenFiles": [
-    "Notions/La vérité.md",
     "Wiki Philosophie - Page principale.md",
-    "Notions/Le travail.md",
-    "Notions/La technique.md",
+    "Notions/L'art.md",
+    "Untitled.canvas",
+    "Définitions/vertue.md",
+    "Auteurs/Pascal.md",
     "Notions/Le temps.md",
-    "Notions/La science.md",
-    "Notions/La religion.md",
-    "Notions/La raison.md",
-    "Notions/La nature.md",
-    "Notions/La liberté.md"
+    "Notions/Le bonheur.md",
+    "Auteurs/Epictète.md",
+    "Auteurs/Aristote.md",
+    "Notions/Le travail.md"
   ]
 }

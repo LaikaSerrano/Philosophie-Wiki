@@ -1,0 +1,2 @@
+#notion
+Définition : statut des propositions qui ne sont ni toujours vraies, indépendamment de toute valeur de vérité, ni toujours fausses. Il est donc possible de modifier certaines choses dans notre vie futur en agissant maintenant
