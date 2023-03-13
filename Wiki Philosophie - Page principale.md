@@ -1,7 +1,7 @@
 > "Que puis-je connaître? – Que dois-je faire? – Que suis-je permis d'espérer?" - Kant
  
 #index
-## Wiki de philosophie aidant aux révision du bacalauréat français (USA equivalent is an high school diploma). 
+## Wiki de philosophie aidant aux révision du bacalauréat français (USA equivalent is a high school diploma). 
 
 ##### Le programme de terminal en philosophie se divise en 17 notions qui sont les suivantes : 
 - [[L'art]]
