@@ -1,0 +1,1 @@
+Pour le lien avec [[La conscience]] selon [[Spinoza]], voir la page de la consicence

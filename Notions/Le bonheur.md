@@ -1,5 +1,5 @@
 #notion
-## Auteur majeurs : 
+## Auteurs principaux : 
 [[Aristote]]
 [[Epictète]]
 [[Pascal]]

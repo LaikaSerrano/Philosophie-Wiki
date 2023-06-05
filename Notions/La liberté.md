@@ -14,7 +14,11 @@ La contingence est préalable au libre arbitre car sans contingence il n'est pas
 Selon [[Spinoza]], la liberté n'est qu'une illusion et le libre arbitre n'existe pas. Une pierre n’est pas libre de rouler mais pense l’être. L'homme pense être libre dans la nature mais ne l'est pas il n'est pas "un empire dans un empire" - Spinoza. Chaque chose serait prédéterminées et nécessaire. 
 
 Contrairement à Spinoza, [[Descartes]] est dualiste, il considère 2 substances (matières et esprit). Le corps et l'esprit serait fortement lié. Tout n'est pas prédictible, il est possible de savoir les choses à l'avance si on est omniscient, ce qui n'est pas le cas de l'homme. Descartes dira que l'âme et le corps sont fortement lié et que plus de corps entraine plus d'âme qui entraine plus de liberté. Le corps ou l’esprit sont composés d’un ensemble de parties, vous êtes un composé de complexe. Lorsque nous faisons une rencontre notre corps se compose avec un autre corps, ou nos idées avec d’autres. Le corps et l'esprit se compose ou se décompose selon des lois complexes. Lors d’une bonne rencontre le corps se compose pour former une forme plus puissante. Lors d’une mauvaise rencontre c’est l’inverse. C’est le cas tout le temps on se compose ou décompose.
+
+D'autres auteurs se sont penchés sur la question par rapport au [[déterminisme social]]. Tel que [[Bourdieu]] qui est lui même un [[transclasse]] et qui est passé d'une classe ouvrière a aisé à force d'assiduiter et de travail. Avoir conscience du determinisme social permet d'en sortir et de devenir transclasse. Ainsi par [[La conscience]] de ce [[déterminisme]], on peut choisir de ne pas le suivre. 
+
 ## Auteurs principaux
 [[Descartes]]
 [[Sartre]]
 [[Spinoza]]
+[[Bourdieu]]

@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "8a28c0438dcfc23e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3c938434610fce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63650decf98bdbf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/La conscience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5af07b802d11ef9a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a70d75e736f3405e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f64a699721f52ee9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "18eb8f17ebb76032",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a50e00c14bbbfbbf",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5f47d6ab4d6a2851",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a3a417a89f18737",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notions/La conscience.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5667e8003493533d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notions/La conscience.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "076caeafd056263e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notions/La conscience.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "63650decf98bdbf3",
+  "lastOpenFiles": [
+    "Wiki Philosophie - Page principale.md",
+    "Auteurs/Pascal.md",
+    "Auteurs/Epictète.md",
+    "Auteurs/Beauvoir.md",
+    "Auteurs/Freud.md",
+    "Notions/L'inconscient.md",
+    "Auteurs/Descartes.md",
+    "Définitions/besoin.md",
+    "Définitions/vertue.md",
+    "Notions/Le temps.md",
+    "Définitions/réflexion.md",
+    "Auteurs/Aristote.md",
+    "Définitions/déterminisme.md",
+    "Auteurs/Spinoza.md",
+    "README.md",
+    "Définitions/destin.md",
+    "Définitions/composition.md",
+    "Notions/Le bonheur.md",
+    "Définitions/science exacte.md",
+    "Auteurs/Sartre.md",
+    "Notions/La conscience.md",
+    "Notions/La liberté.md",
+    "Notions/La vérité.md",
+    "Notions/La nature.md",
+    "Notions/Le langage.md",
+    "Notions/La raison.md"
+  ]
+}

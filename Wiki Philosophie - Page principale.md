@@ -3,7 +3,7 @@
 #index
 ## Wiki de philosophie aidant aux révision du bacalauréat français (USA equivalent is a high school diploma). 
 
-##### Le programme de terminal en philosophie se divise en 17 notions qui sont les suivantes : 
+##### Le programme de terminal en philosophie se divise en 18 notions qui sont les suivantes : 
 - [[L'art]]
 - [[Le bonheur]]
 - [[La conscience]]

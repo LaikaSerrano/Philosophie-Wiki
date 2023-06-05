@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "98caac43aa1e0684",
+        "id": "50b5285a540ce661",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9811d16e4a2b31",
+            "id": "0f9ded9d6dee3977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/La liberté.md",
+                "file": "Notions/Le bonheur.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7eed4727f547d79a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -72,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8eb1138f9469cb6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notions/La liberté.md",
+                "file": "Notions/Le bonheur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notions/La liberté.md",
+                "file": "Notions/Le bonheur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notions/La liberté.md"
+                "file": "Notions/Le bonheur.md"
               }
             }
           }
@@ -154,29 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e9811d16e4a2b31",
+  "active": "0f9ded9d6dee3977",
   "lastOpenFiles": [
-    "Auteurs/Freud.md",
+    "Notions/L'État.md",
+    "Pasted image 20230407093957.png",
+    "Auteurs/Hobbes.md",
     "Notions/L'inconscient.md",
-    "Notions/La liberté.md",
-    "Wiki Philosophie - Page principale.md",
-    "Notions/Le bonheur.md",
-    "Définitions/destin.md",
-    "Notions/L'art.md",
-    "Notions/La science.md",
-    "Notions/La conscience.md",
-    "Auteurs/Epictète.md",
-    "Auteurs/Spinoza.md",
     "Notions/La justice.md",
-    "README.md",
-    "Définitions/contingence.md",
+    "Notions/La conscience.md",
+    "Notions/L'art.md",
     "Auteurs/Beauvoir.md",
-    "Auteurs/Platon.md",
-    "Auteurs/Sartre.md",
+    "Notions/La liberté.md",
+    "Auteurs/Marx.md",
+    "Définitions/marxisme.md",
     "Auteurs/Pascal.md",
-    "Auteurs/Descartes.md",
+    "Auteurs/Freud.md",
+    "Auteurs/Malthus.md",
+    "Définitions/psychanalyse.md",
+    "Auteurs/Bourdieu.md",
     "Auteurs/Aristote.md",
+    "Auteurs/Epictète.md",
+    "Auteurs/Descartes.md",
+    "Auteurs/Sartre.md",
+    "Notions/La science.md",
     "Notions/Le travail.md",
-    "Notions/Le devoir.md"
+    "Notions/Le temps.md",
+    "Notions/Le langage.md",
+    "Notions/Le devoir.md",
+    "Notions/Le bonheur.md"
   ]
 }

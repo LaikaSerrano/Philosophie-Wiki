@@ -7,5 +7,4 @@ Peu connu, Epictète était un philosophe grec antique porteur de la parole sto�
 > "Le désir n’est plus un manque mais embrasser, aimer ce qui arrive "
 
 
-# Pensée sur [[le bonheur]]
-Pour résumer simplement Epictète pense que le determinisme est lié au bonheur (Pour plus d'information, cf [[Le bonheur]])
+
